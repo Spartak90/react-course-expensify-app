@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render EditExpensePage correctly 1`] = `
+<div>
+  <Connect(withRouter(ExpenseForm))
+    expense={
+      Object {
+        "amount": 50,
+        "createdAt": 53223525,
+        "description": "testing description",
+        "id": "sgdksjafa",
+        "note": "sldgjalkd",
+      }
+    }
+    onSubmit={[Function]}
+  />
+</div>
+`;
